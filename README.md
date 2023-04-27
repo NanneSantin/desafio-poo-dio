@@ -13,7 +13,3 @@
  3. Criar ATRIBUTOS E MÉTODOS para as CLASSES Curso, Mentoria e Devs;
  4. Utilizar de algumas das ferramentas que o PARADIGMA DE ORIENTAÇÃO A OBJETOS (POO) nos oferece: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO;
  5. Transformar em OBJETOS as CLASSES que foram criadas e relacionadas.
-
-<h2> :books: Conceitos </h2>
-
-<p> <strong> Consulte todos os conceitos no perfil da [Dev Camila](https://github.com/cami-la/desafio-poo-dio/blob/master/README.md), co-criadora do desafio em questão. </strong> </p> 
